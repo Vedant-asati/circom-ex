@@ -1,0 +1,13 @@
+{
+  "name": "rockpaperscissors-example",
+  "version": "1.0.0",
+  "description": "Circom Example",
+  "main": "index.js",
+  "author": "jsr-vedant",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  },
+  "repository": "https://github.com/teeolendo/circom_rps.git"
+}
